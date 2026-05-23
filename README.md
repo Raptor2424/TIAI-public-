@@ -1,2 +1,2 @@
 # TIAI-public-
-Ici se trouve les version public de TIAI.
+Ici se trouve les versions publiques de TIAI.
